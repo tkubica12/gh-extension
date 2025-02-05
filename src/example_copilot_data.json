@@ -1,0 +1,116 @@
+{
+    "copilot_thread_id": "93714c75-80c5-4b65-8db9-910e177b18ed",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Hello Copilot",
+            "copilot_references": [],
+            "copilot_confirmations": null
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?",
+            "copilot_references": [],
+            "copilot_confirmations": null
+        },
+        {
+            "role": "user",
+            "content": "Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-02-05 11:32:29\nCurrent User's Login: tkubica12\n",
+            "name": "_session",
+            "copilot_references": [],
+            "copilot_confirmations": null
+        },
+        {
+            "role": "user",
+            "content": "",
+            "copilot_references": [
+                {
+                    "type": "github.file",
+                    "data": {
+                        "type": "file",
+                        "ref": "refs/heads/main",
+                        "repoID": 470866547,
+                        "repoName": "azure-workshops",
+                        "repoOwner": "tkubica12",
+                        "url": "https://github.com/tkubica12/azure-workshops/blob/main/d-asr/terraform/dns.tf",
+                        "path": "d-asr/terraform/dns.tf",
+                        "commitOID": "c236dc3b4b4f582ada9be27a6c2299e31e3674c2",
+                        "languageName": "HCL",
+                        "languageID": 144
+                    },
+                    "id": "470866547-refs/heads/main-d-asr/terraform/dns.tf",
+                    "is_implicit": false,
+                    "metadata": {
+                        "display_name": "470866547-refs/heads/main-d-asr/terraform/dns.tf",
+                        "display_icon": "",
+                        "display_url": ""
+                    }
+                },
+                {
+                    "type": "github.file",
+                    "data": {
+                        "type": "file",
+                        "ref": "refs/heads/main",
+                        "repoID": 470866547,
+                        "repoName": "azure-workshops",
+                        "repoOwner": "tkubica12",
+                        "url": "https://github.com/tkubica12/azure-workshops/blob/main/d-aks/terraform/aks.tf",
+                        "path": "d-aks/terraform/aks.tf",
+                        "commitOID": "c236dc3b4b4f582ada9be27a6c2299e31e3674c2",
+                        "languageName": "HCL",
+                        "languageID": 144
+                    },
+                    "id": "470866547-refs/heads/main-d-aks/terraform/aks.tf",
+                    "is_implicit": false,
+                    "metadata": {
+                        "display_name": "470866547-refs/heads/main-d-aks/terraform/aks.tf",
+                        "display_icon": "",
+                        "display_url": ""
+                    }
+                },
+                {
+                    "type": "github.file",
+                    "data": {
+                        "type": "file",
+                        "ref": "refs/heads/main",
+                        "repoID": 470866547,
+                        "repoName": "azure-workshops",
+                        "repoOwner": "tkubica12",
+                        "url": "https://github.com/tkubica12/azure-workshops/blob/main/d-aks/terraform/main.tf",
+                        "path": "d-aks/terraform/main.tf",
+                        "commitOID": "c236dc3b4b4f582ada9be27a6c2299e31e3674c2",
+                        "languageName": "HCL",
+                        "languageID": 144
+                    },
+                    "id": "470866547-refs/heads/main-d-aks/terraform/main.tf",
+                    "is_implicit": false,
+                    "metadata": {
+                        "display_name": "470866547-refs/heads/main-d-aks/terraform/main.tf",
+                        "display_icon": "",
+                        "display_url": ""
+                    }
+                }
+            ],
+            "copilot_confirmations": null
+        },
+        {
+            "role": "user",
+            "content": "Hello Tomas Kubica AI Agent. Attaching few files.",
+            "copilot_references": [],
+            "copilot_confirmations": []
+        }
+    ],
+    "stop": null,
+    "top_p": 0,
+    "temperature": 0,
+    "max_tokens": 0,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "response_format": null,
+    "copilot_skills": null,
+    "agent": "tomaskubica-gh-extension",
+    "client_id": "Iv23lib2zsGRgXQAJTvG",
+    "tools": [],
+    "functions": null,
+    "model": ""
+}

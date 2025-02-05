@@ -1,0 +1,6 @@
+@server = localhost:8000
+
+POST http://{{server}}/
+Content-Type: text/plain
+
+hello, you there?
